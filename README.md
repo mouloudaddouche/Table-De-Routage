@@ -27,4 +27,4 @@ JDK : https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
 - [Java](https://fr.wikipedia.org/wiki/Java_(langage)) - Langage de programmation de l'application.
 
 ## Utilisation
-Il suffit d'importer le dossier THG_Console ou THG_Graphique (ça depend la version voulu) dans Eclipse et lancer le fichier Main.java
+Il suffit d'importer le dossier THG_Console ou THG_Graphique (ça depend la version voulu) dans Eclipse et lancer le fichier Main.java.
