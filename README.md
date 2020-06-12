@@ -12,8 +12,8 @@ et des changements (le plus court chemin) se font sur la console par le biais de
 l’affichage est graphique grâce a JFrame qui est propre à java et la bibliothèque JGraphx.
 
 ### Prérequis
-Avoir des connaissances en théorie des graphes.
-Vous devez installer IDE Eclipse, Java Development Kit.
+- Avoir des connaissances en théorie des graphes.
+- vous devez installer IDE Eclipse, Java Development Kit.
 
 ```
 Lien :
